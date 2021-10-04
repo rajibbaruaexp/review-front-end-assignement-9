@@ -1,0 +1,22 @@
+
+.logo-wrapper span {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+  float: left;
+  color: #fff;
+}
+nav a {
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  margin-left: 5px;
+  padding: 10px;
+}
+.header-bottom {
+  padding: 15px 0;
+  background: #002333;
+}

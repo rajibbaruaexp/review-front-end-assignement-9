@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "20 Do’s and Don’ts for Software Engineering Interviews",
+    "img": "http://blog.thefirehoseproject.com/posts/wp-content/uploads/2018/06/priscilla-du-preez-623040-unsplash-1400x933.jpg",
+    "author": "Rajib Barua",
+    "details": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games. Master your language with lessons, quizzes, and projects designed for real-life scenarios. Create portfolio projects that showcase your new skills to help land your dream job."
+  },
+  {
+    "id": "2",
+    "name": "The best courses for learning web development [2021]",
+    "img": "https://coder-coder.com/wp-content/uploads/2019/04/CoderCoder-BestCourses.png",
+    "author": "Jhon Doe",
+    "details": "Here are my recommended courses and online curriculum based on my own experience and research. There are both free and paid options, depending on your budget."
+  },
+  {
+    "id": "3",
+    "name": "Learn web development as an absolute beginner (2021)",
+    "img": "https://coder-coder.com/wp-content/themes/codercoder/dist/img/CoderCoder-AbsoluteBeginnersGuide-sm.png",
+    "author": "Jenni",
+    "details": "It’s hard to know the best way to learn coding, because there are a ton of resources out there. But right now, all you need is the basics of web development– a general explanation with some direction on where to go nex"
+  },
+  {
+    "id": "4",
+    "name": "HTML & CSS, and JavaScript & JQuery (2 book set) by Jon Duckett",
+    "img": "https://coder-coder.com/wp-content/uploads/2018/09/jon-duckett-books.jpg",
+    "author": "James",
+    "details": "Jon Duckett’s books are incredibly popular, and for good reason– they explain the topics at hand well and are designed tremendously well. They’re definitely not your usual stuffy programming textbooks! Both these books use graphics to illustrate concepts, and let’"
+  },
+  {
+    "id": "5",
+    "name": "Eloquent JavaScript, 3rd Edition by Marijn Haverbeke",
+    "img": "https://coder-coder.com/wp-content/uploads/2018/02/eloquent-js-book.jpg",
+    "author": "Lowsec Jak",
+    "details": "Eloquent JavaScript is one of the most well-loved JavaScript books currently, with good reason. Marijn Haverbeke will take you through learning JS from the very beginning up through more complex concepts. The book includes a ton of code examples and even mini projects like a simple game"
+  },
+  {
+    "id": "6",
+    "name": "20 Do’s and Don’ts for Software Engineering Interviews",
+    "img": "http://blog.thefirehoseproject.com/posts/wp-content/uploads/2018/06/priscilla-du-preez-623040-unsplash-1400x933.jpg",
+    "author": "Rajib Barua",
+    "details": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games. Master your language with lessons, quizzes, and projects designed for real-life scenarios. Create portfolio projects that showcase your new skills to help land your dream job."
+  },
+  {
+    "id": "7",
+    "name": "Learn React JS in 5 minutes — A tutorial for beginners",
+    "img": "https://cdn-images-1.medium.com/max/1081/1*IfwvdXdue_6unCX5eCnnqg.png",
+    "author": "Rajib Barua",
+    "details": "This tutorial will give you a basic understanding of React by building a very simple application. I’ll leave out everything which I don’t think is core."
+  }
+]

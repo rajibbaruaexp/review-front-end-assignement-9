@@ -1,0 +1,14 @@
+.logo-wrapper img {
+  width: 170px;
+}
+nav a {
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  margin-left: 5px;
+  padding: 10px;
+}
+.header-bottom {
+  padding: 15px 0;
+  background: #002333;
+}

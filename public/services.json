@@ -1,0 +1,173 @@
+[
+  {
+    "id": "1",
+    "name": "Python",
+    "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+    "duration": "4 Months",
+    "instructor": "Jhankar Mahbub",
+    "fee": 5000,
+    "details": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games. Master your language with lessons, quizzes, and projects designed for real-life scenarios. Create portfolio projects that showcase your new skills to help land your dream job."
+  },
+  {
+    "id": "2",
+    "name": "Java Programming Masterclass covering Java 11 & Java 17",
+    "img": "https://img-c.udemycdn.com/course/240x135/533682_c10c_4.jpg",
+    "duration": "6 Months",
+    "instructor": "Rajib Barua",
+    "fee": 12000,
+    "details": "Master your language with lessons, quizzes, and projects designed for real-life scenarios. Create portfolio projects that showcase your new skills to help land your dream job."
+  },
+  {
+    "id": "3",
+    "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "img": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "duration": "6 Months",
+    "instructor": "Jhankar Mahbub",
+    "fee": 15000,
+    "details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!"
+  },
+  {
+    "id": "4",
+    "name": "Learn Python Programming Masterclass",
+    "img": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+    "duration": "5 Months",
+    "instructor": "Rasel Ahmed",
+    "fee": 15000,
+    "details": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3"
+  },
+  {
+    "id": "5",
+    "name": "The Python Mega Course: Build 10 Real World Applications",
+    "img": "https://img-c.udemycdn.com/course/240x135/692188_9da7_21.jpg",
+    "duration": "1 Year",
+    "instructor": "Jhon Doe",
+    "fee": 20000,
+    "details": "Go from zero to hero in Python in weeks! Learn Python the easy way by building real-life Python programs!"
+  },
+  {
+    "id": "6",
+    "name": "100 Days of Code - The Complete Python Pro Bootcamp for 2021",
+    "img": "https://img-c.udemycdn.com/course/240x135/2776760_f176_6.jpg",
+    "duration": "3 Months",
+    "instructor": "Jennifer",
+    "fee": 27000,
+    "details": "Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science"
+  },
+  {
+    "id": "7",
+    "name": "The Complete Node.js Developer Course (3rd Edition)",
+    "img": "https://img-c.udemycdn.com/course/240x135/922484_52a1_8.jpg",
+    "duration": "6 Months",
+    "instructor": "Rafiq Islam",
+    "fee": 20000,
+    "details": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!"
+  },
+  {
+    "id": "8",
+    "name": "Learning Python for Data Analysis and Visualization",
+    "img": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+    "duration": "6 Months",
+    "instructor": "James Bond",
+    "fee": 20505,
+    "details": "If You Qualify For Our Small to Medium Business Pricing You Will Receive The Best Market Rates. Dont Overpay For Cleaning Thats Not Getting Done, Our Prices Start From $93 Per Visit"
+  },
+  {
+    "id": "9",
+    "name": "Automate the Boring Stuff with Python Programming",
+    "img": "https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+    "duration": "6 Months",
+    "instructor": "James Cameroon",
+    "fee": 300000,
+    "details": "If You Qualify For Our Small to Medium Business Pricing You Will Receive The Best Market Rates. Dont Overpay For Cleaning Thats Not Getting Done, Our Prices Start From $93 Per Visit"
+  },
+  {
+    "id": "10",
+    "name": "Beginning C++ Programming - From Beginner to Beyond",
+    "img": "https://img-c.udemycdn.com/course/240x135/1576854_9aeb_2.jpg",
+    "duration": "6 Months",
+    "instructor": "Traversy Media",
+    "fee": 30000,
+    "details": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
+  },
+  {
+    "id": "11",
+    "name": "Spring & Hibernate for Beginners (includes Spring Boot)",
+    "img": "https://img-c.udemycdn.com/course/240x135/647428_be28_6.jpg",
+    "duration": "6 Months",
+    "instructor": "Jhon Doe",
+    "fee": 35000,
+    "details": "Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate"
+  },
+  {
+    "id": "12",
+    "name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+    "img": "https://img-c.udemycdn.com/course/240x135/1879018_95b6_3.jpg",
+    "duration": "6 Months",
+    "instructor": "Jhon Doe",
+    "fee": 20000,
+    "details": "If You Qualify For Our Small to Medium Business Pricing You Will Receive The Best Market Rates. Dont Overpay For Cleaning Thats Not Getting Done, Our Prices Start From $93 Per Visit"
+  },
+  {
+    "id": "13",
+    "name": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+    "img": "https://img-c.udemycdn.com/course/240x135/382002_5d4a.jpg",
+    "duration": "6 Months",
+    "instructor": "Jhon Doe",
+    "fee": 15000,
+    "details": "If You Qualify For Our Small to Medium Business Pricing You Will Receive The Best Market Rates. Dont Overpay For Cleaning Thats Not Getting Done, Our Prices Start From $93 Per Visit"
+  },
+  {
+    "id": "14",
+    "name": "The Ultimate Excel Programmer Course",
+    "img": "https://img-c.udemycdn.com/course/240x135/164058_e914_2.jpg",
+    "duration": "6 Months",
+    "instructor": "Jhon Doe",
+    "fee": 30000,
+    "details": "Learn Excel VBA from Scratch with Dan Strong, Bestselling Excel Expert with Over 180K Students Worldwide!"
+  },
+  {
+    "id": "15",
+    "name": "The Python Bible™ | Everything You Need to Program in Python",
+    "img": "https://img-c.udemycdn.com/course/240x135/903378_f32d_7.jpg",
+    "duration": "6 Months",
+    "instructor": "Jhon Doe",
+    "fee": 30000,
+    "details": "Build 11 Projects and go from Beginner to Pro in Python with the World's Most Fun Project-Based Python Course!"
+  },
+  {
+    "id": "16",
+    "name": "JavaScript Algorithms and Data Structures Masterclass",
+    "img": "https://img-c.udemycdn.com/course/240x135/1406344_1d65_3.jpg",
+    "duration": "6 Months",
+    "instructor": "Rajib Barua",
+    "fee": 50000,
+    "details": "The Missing Computer Science and Coding Interview Bootcamp"
+  },
+  {
+    "id": "17",
+    "name": "C# Advanced Topics: Prepare for Technical Interviews",
+    "img": "https://img-c.udemycdn.com/course/240x135/356030_0209_4.jpg",
+    "duration": "6 Months",
+    "instructor": "Stephen Hawkin",
+    "fee": 30000,
+    "details": "Master the confusing C# constructs: Events, Delegates, Lambda Expressions, LINQ, Async/Await and more!"
+  },
+  {
+    "id": "18",
+    "name": "JavaScript - The Complete Guide 2021 (Beginner + Advanced)",
+    "img": "https://img-c.udemycdn.com/course/240x135/1406344_1d65_3.jpg",
+    "duration": "6 Months",
+    "instructor": "Jony Dey",
+    "fee": 40000,
+    "details": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2021."
+  },
+  {
+    "id": "19",
+    "name": "Learn How To Code: Google's Go (golang) Programming Language",
+    "img": "https://img-c.udemycdn.com/course/240x135/642102_4e20_2.jpg",
+    "duration": "6 Months",
+    "instructor": "Rajib Barua",
+    "fee": 25000,
+    "details": "The Ultimate Comprehensive Course - Perfect for Both Beginners and Experienced Developers"
+  }
+]

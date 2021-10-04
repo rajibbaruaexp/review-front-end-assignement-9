@@ -1,0 +1,9 @@
+.header-top {
+    background: #000;
+    color: #fff;
+    padding: 10px 0;
+  }
+  .header-top p {
+    margin: 0;
+    margin-left: 5px;
+  }
